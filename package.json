@@ -107,7 +107,11 @@
         "extensions": [
           ".huff"
         ],
-        "configuration": "./language-configuration.json"
+        "configuration": "./language-configuration.json",
+        "icon": {
+          "dark": "./resources/huff_icon.svg",
+          "light": "./resources/huff_icon_dark.svg"
+        }
       }
     ],
     "grammars": [
